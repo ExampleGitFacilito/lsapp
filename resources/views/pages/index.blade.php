@@ -6,5 +6,11 @@
         <p class="lead">This is the laravel application from "Laravel From Scratch" Youtube series</p>
         <p><a class="btn btn-lg btn-primary" href="/login" role="button">Login</a> <a class="btn btn-lg btn-success" href="/register" role="button">Register</a></p>
     </div>
+    <div class="text-center">
+        <button type="button" class="btn btn-lg btn-primary">Primary</button>
+        <button type="button" class="btn btn-lg btn-primary">Success</button>
+        <button type="button" class="btn btn-lg btn-primary">Info</button>
+        <button type="button" class="btn btn-lg btn-primary">Warning</button>
+    </div>
 @endsection
 
