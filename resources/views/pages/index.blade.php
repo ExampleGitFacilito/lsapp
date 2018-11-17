@@ -12,6 +12,7 @@
         <button type="button" class="btn btn-lg btn-info">Twitter</button>
         <button type="button" class="btn btn-lg btn-warning">Linked-In</button>
         <button type="button" class="btn btn-lg btn-success">Git Hub</button>
+        <button type="button" class="btn btn-lg btn-primary">Snapchat</button>
     </div>
 @endsection
 
