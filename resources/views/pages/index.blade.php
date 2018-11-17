@@ -18,7 +18,7 @@
         <button type="button" class="btn btn-lg btn-info">Reddit</button>
     </div>
     <div  class="text-center">
-        <button type="button" class="btn btn-lg btn-primary">Youtube</button>
+        <button type="button" class="btn btn-lg btn-primary">Jose Felix</button>
     </div>
 @endsection
 
